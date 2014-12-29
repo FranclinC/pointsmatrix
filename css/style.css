@@ -1,0 +1,16 @@
+div#matrix{
+    float:left;
+}
+
+div.row{
+background-color:#dedede;
+float:left;
+}
+
+div.point{
+background-color:black;
+margin:10px;
+width:5px;
+height:5px;
+float:left;
+}
